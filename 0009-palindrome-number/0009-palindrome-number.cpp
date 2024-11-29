@@ -7,7 +7,7 @@ public:
             if(rev>(INT_MAX/10)||rev<(INT_MIN/10)) 
              return false;
           
-            rev = (rev *1LL* 10) + (d % 10);
+            rev = (rev * 10) + (d % 10);
             d /= 10;
         }
     
