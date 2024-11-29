@@ -10,7 +10,7 @@ public:
             rev = (rev *1LL* 10) + (d % 10);
             d /= 10;
         }
-        cout<<rev;
+    
 
         return x==rev;
     }
