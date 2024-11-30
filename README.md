@@ -15,4 +15,9 @@ Competative Programming
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0029-divide-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
