@@ -24,6 +24,56 @@
 </pre>
 
 <p>&nbsp;</p>
+
+
+
+# Division of Two Integers Using Bitwise Operations
+
+This function performs division of two integers using bitwise operations without directly using the `/` or `%` operators. Here's how it works:
+
+---
+
+## Handle Special Cases:
+1. If `dividend == divisor`, the result is `1`.
+2. If `dividend == INT_MIN` (smallest possible integer) and `divisor == -1`, the result overflows the range of integers, so we return `INT_MAX`.
+3. If `dividend == INT_MAX` (largest possible integer) and `divisor == -1`, the result will be `INT_MIN + 1`.
+
+---
+
+## Determine Sign:
+- Use XOR (`^`) to determine if the signs of `dividend` and `divisor` are different.
+  - If they are different, the result should be negative (`-1`).
+  - Otherwise, the result is positive (`1`).
+
+---
+
+## Convert to Absolute Values:
+- Convert both `dividend` and `divisor` to their absolute values to simplify the bitwise calculations.
+
+---
+
+## Perform Division Using Bitwise Shifting:
+- Use a loop to repeatedly subtract multiples of `divisor` from `dividend` until `dividend` becomes smaller than `divisor`.
+- The multiples are computed by left-shifting (`d << count`) to speed up subtraction.
+- For every iteration:
+  - Determine the largest multiple of `divisor` (using left shifts) that can be subtracted from `dividend`.
+
+---
+
+## Accumulate the Quotient:
+- Add the corresponding power of `2` (`1 << count`) to the result (`ans`) for each subtraction.
+
+---
+
+## Check Overflow in Result:
+1. If `ans` reaches `INT_MAX` and the sign is positive, return `INT_MAX`.
+2. If `ans` reaches `INT_MAX` and the sign is negative, return `INT_MIN`.
+
+---
+
+## Apply Sign:
+- Multiply `ans` by the sign calculated earlier to restore the correct sign of the result.
+
 <p><strong>Constraints:</strong></p>
 
 <ul>
