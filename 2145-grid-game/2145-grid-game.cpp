@@ -33,7 +33,7 @@ long long res = LLONG_MAX; // Initialize to maximum possible value
 
             
             long long r1 = presum[1][i-1];
-            cout<<"RO= "<<r0<<"R1= "<<r1<<endl;
+           // cout<<"RO= "<<r0<<"R1= "<<r1<<endl;
             
             res = min(res, max(r0, r1));
         }
