@@ -1,0 +1,9 @@
+Enter elements (enter 0 to stop):
+Original stack elements:
+1
+2
+3
+Reversed stack elements:
+3
+2
+1

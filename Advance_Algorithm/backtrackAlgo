@@ -1,0 +1,29 @@
+Backtracking: Concept
+-------------------------
+Backtracking is a systematic method to solve problems by exploring all possible solutions. It involves building a solution incrementally, step by step, and removing the steps (backtracking) when a partial solution fails to satisfy the problem's conditions. It's widely used for constraint satisfaction problems like puzzles, pathfinding, and optimization.
+
+Key Features of Backtracking
+-----------------------------
+Recursive Exploration: Backtracking typically involves recursive function calls.
+Pruning: It stops exploring further when it is clear that the current path cannot   
+         lead to a solution.
+Systematic Search: It generates all possible candidates and tests them against 
+                   constraint
+
+//Psuedo Code 
+==============
+
+function backtrack(current_solution):
+    if is_solution_complete(current_solution):
+        process_solution(current_solution)
+        return
+
+    for choice in all_possible_choices:
+        if is_valid_choice(current_solution, choice):
+            make_choice(current_solution, choice)
+            backtrack(current_solution)
+            undo_choice(current_solution, choice)
+
+
+
+
