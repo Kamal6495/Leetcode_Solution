@@ -9,6 +9,7 @@ Competative Programming
 | [0001-two-sum](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0407-trapping-rain-water-ii](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0407-trapping-rain-water-ii) |
+| [1396-count-servers-that-communicate](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1396-count-servers-that-communicate) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1876-map-of-highest-peak) |
@@ -68,6 +69,7 @@ Competative Programming
 ## Counting
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1396-count-servers-that-communicate) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Kamal6495/Leetcode_Solution/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Greedy
 |  |
@@ -81,6 +83,7 @@ Competative Programming
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0407-trapping-rain-water-ii) |
+| [1396-count-servers-that-communicate](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1876-map-of-highest-peak) |
 ## Graph
@@ -96,6 +99,7 @@ Competative Programming
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0407-trapping-rain-water-ii) |
+| [1396-count-servers-that-communicate](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2145-grid-game) |
@@ -108,4 +112,12 @@ Competative Programming
 |  |
 | ------- |
 | [2145-grid-game](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2145-grid-game) |
+## Depth-First Search
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1396-count-servers-that-communicate) |
+## Union Find
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
