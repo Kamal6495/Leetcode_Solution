@@ -37,3 +37,39 @@
 	<li><code>1 &lt;=&nbsp;candidates[i] &lt;= 50</code></li>
 	<li><code>1 &lt;= target &lt;= 30</code></li>
 </ul>
+
+
+# Key Characteristics
+
+## Backtracking Approach:
+
+- The function explores all possible combinations of elements in the array.
+- Each recursive call includes or excludes an element in the current subset (`ds`).
+- The recursion stops when the target (`tar`) becomes `0` (valid combination found) or goes negative (invalid path).
+
+## Sorting for Pruning and Deduplication:
+
+### Why Sorting?
+Sorting ensures that elements are processed in non-decreasing order.
+
+### Benefits of Sorting:
+1. **Prune branches early**:
+   - When `arr[i] > tar`, further elements are skipped because they will also exceed the target.
+2. **Avoid duplicates**:
+   - By skipping consecutive duplicate elements (`if (i > ind && arr[i] == arr[i - 1])`).
+
+## Duplicate Handling:
+
+- The condition `if (i > ind && arr[i] == arr[i - 1])` skips duplicate elements when processing the same level of recursion.
+- This ensures no duplicate combinations are included in the results.
+
+## Efficient Space Usage:
+
+- The algorithm uses a single vector `ds` for building combinations, which is modified using `push_back` and `pop_back` during recursive calls.
+- This avoids creating new vectors at every step, saving memory.
+
+## Early Stopping:
+
+- The condition `if (arr[i] > tar) break;` stops recursion early when the current element exceeds the remaining target (`tar`).
+- Since the array is sorted, no further elements can contribute to the target.
+
