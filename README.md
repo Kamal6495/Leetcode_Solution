@@ -21,6 +21,7 @@ Competative Programming
 | [2685-first-completely-painted-row-or-column](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2792-neighboring-bitwise-xor) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kamal6495/Leetcode_Solution/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,6 +58,7 @@ Competative Programming
 |  |
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1468-check-if-n-and-its-double-exist) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kamal6495/Leetcode_Solution/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -127,6 +129,7 @@ Competative Programming
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1396-count-servers-that-communicate) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kamal6495/Leetcode_Solution/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Topological Sort
 |  |
 | ------- |
