@@ -47,3 +47,75 @@ We cannot obtain a lexicographically smaller array by applying any more operatio
 	<li><code>1 &lt;= nums[i] &lt;= 10<sup>9</sup></code></li>
 	<li><code>1 &lt;= limit &lt;= 10<sup>9</sup></code></li>
 </ul>
+
+
+
+# Explanation of the Code
+
+This solution rearranges elements of the array `nums` into a lexicographically smallest order under the constraint that differences between consecutive elements in the sorted group must not exceed a specified `limit`.
+
+### Steps:
+
+1. **Store Elements with Indices**:
+   - Create a vector of pairs, `xy`, where each pair contains a number from `nums` and its corresponding index. This helps us keep track of the original positions of elements.
+
+2. **Sort the Vector of Pairs**:
+   - Sort `xy` based on the values of `nums`. This groups elements that should be together lexicographically.
+
+3. **Rearrange Values by Groups**:
+   - Use a two-pointer approach (`left` and `right`) to find groups of elements in `xy` where the difference between consecutive values is less than or equal to `limit`.
+   - Sort the indices of each group to preserve the lexicographical order.
+
+4. **Place Values Back**:
+   - Use the sorted indices to place the ordered values back into their original positions in `nums`.
+
+5. **Return the Result**:
+   - After processing all groups, the updated `nums` will be the lexicographically smallest array.
+
+---
+
+# Code: Lexicographically Smallest Array with Comments
+
+```cpp
+class Solution {
+public:
+    vector<int> lexicographicallySmallestArray(vector<int>& nums, int limit) {
+        // Step 1: Store each number with its original index
+        vector<pair<int, int>> xy; // Pair of {value, index}
+        for (int i = 0; i < nums.size(); i++)
+            xy.push_back({nums[i], i});
+
+        // Step 2: Sort the vector by value to group items lexicographically
+        sort(xy.begin(), xy.end());
+
+        // Initialize pointers to process groups
+        int left = 0, right = 1;
+        int n = nums.size();
+
+        // Step 3: Find groups of elements where consecutive values differ by <= limit
+        while (right < n) {
+            vector<int> pos = {xy[left].second}; // Store indices of the current group
+
+            // Expand the group while the difference between consecutive values <= limit
+            while (right < n && abs(xy[right].first - xy[right - 1].first) <= limit) {
+                pos.push_back(xy[right].second);
+                right++;
+            }
+
+            // Step 4: Sort indices in the group for lexicographical order
+            sort(pos.begin(), pos.end());
+
+            // Place the sorted values into their original positions in nums
+            for (int i = 0; i < right - left; i++)
+                nums[pos[i]] = xy[left + i].first;
+
+            // Move to the next group
+            left = right;
+            right++;
+        }
+
+        // Return the updated nums array
+        return nums;
+    }
+};
+
