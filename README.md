@@ -11,6 +11,7 @@ Competative Programming
 | [0037-sudoku-solver](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0090-subsets-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0407-trapping-rain-water-ii) |
@@ -161,6 +162,7 @@ Competative Programming
 | [0037-sudoku-solver](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
