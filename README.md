@@ -44,6 +44,7 @@ Competative Programming
 | ------- |
 | [0009-palindrome-number](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0029-divide-two-integers) |
+| [0060-permutation-sequence](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0060-permutation-sequence) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -184,4 +185,8 @@ Competative Programming
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0131-palindrome-partitioning) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
