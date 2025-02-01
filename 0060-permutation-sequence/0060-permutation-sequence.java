@@ -1,9 +1,7 @@
 class Solution {
     public String getPermutation(int n, int k) {
 
-        if (n <= 1 && k <= 1)
-            return "1";
-
+       
         String ans = "";
 
         List<Integer> numbers = new ArrayList<>();
