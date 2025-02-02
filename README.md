@@ -23,6 +23,7 @@ Competative Programming
 | [1468-check-if-n-and-its-double-exist](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1876-map-of-highest-peak) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2145-grid-game](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2145-grid-game) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2685-first-completely-painted-row-or-column) |
