@@ -1,7 +1,6 @@
 class Solution {
 public:
     vector<string> findRelativeRanks(vector<int>& score) {
-        // vector<string> temp = {"Gold Medal", "Silver Medal", "Bronze Medal"};
         vector<string> ans(score.size());
         priority_queue<pair<int, int>> pq;
 
