@@ -17,6 +17,7 @@ Competative Programming
 | [0078-subsets](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0090-subsets-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0407-trapping-rain-water-ii) |
+| [0506-relative-ranks](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0506-relative-ranks) |
 | [0854-making-a-large-island](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1396-count-servers-that-communicate) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -68,6 +69,7 @@ Competative Programming
 ## Sorting
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0506-relative-ranks) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1468-check-if-n-and-its-double-exist) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kamal6495/Leetcode_Solution/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Divide and Conquer
@@ -123,6 +125,7 @@ Competative Programming
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0407-trapping-rain-water-ii) |
+| [0506-relative-ranks](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0506-relative-ranks) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Matrix
 |  |
