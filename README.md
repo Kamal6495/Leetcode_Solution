@@ -40,6 +40,7 @@ Competative Programming
 | [0001-two-sum](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0037-sudoku-solver) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Kamal6495/Leetcode_Solution/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -84,6 +85,7 @@ Competative Programming
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0131-palindrome-partitioning) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Kamal6495/Leetcode_Solution/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String Matching
 |  |
@@ -93,6 +95,7 @@ Competative Programming
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1396-count-servers-that-communicate) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Kamal6495/Leetcode_Solution/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Greedy
 |  |
