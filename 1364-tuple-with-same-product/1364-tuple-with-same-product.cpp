@@ -10,8 +10,9 @@ public:
                 freq[nums[i] * nums[j]]++;
 
         int count = 0;
-        for (auto [product, frequency] : freq)
-            count += 8 * nC2(frequency);
+        for (auto i: freq)
+        if(i.second>1)
+            count += 8 * nC2(i.second);
 
         return count;
     }
