@@ -1,25 +1,26 @@
 import java.util.HashMap;
 
 class Solution {
-    public int tupleSameProduct(int[] arr) {
+    private int nC2(int n) {
+        return (n * (n - 1)) / 2;
+    }
+
+    public int tupleSameProduct(int[] nums) {
+        int n = nums.length;
+        HashMap<Integer, Integer> freq = new HashMap<>(); // K -> product, V -> frequency of such pair
+
+        for (int i = 0; i < n - 1; ++i) {
+            for (int j = i + 1; j < n; ++j) {
+                int product = nums[i] * nums[j];
+                freq.put(product, freq.getOrDefault(product, 0) + 1);
+            }
+        }
+
         int count = 0;
-        HashMap<Integer, Integer> f = new HashMap<>();
-
-        // Count frequency of products
-        for (int i = 0; i < arr.length; i++) {
-            for (int j = i + 1; j < arr.length; j++) { 
-                int x = arr[i] * arr[j];
-                f.put(x, f.getOrDefault(x, 0) + 1);
-            }
+        for (int frequency : freq.values()) {
+            count += 8 * nC2(frequency);
         }
 
-       
-        for (Integer key : f.keySet()) {
-            int freq = f.get(key);
-            if (freq > 1) {
-                count += (8 * (freq * (freq - 1)) / 2); //  tuple count formula
-            }
-        }
         return count;
     }
 }
