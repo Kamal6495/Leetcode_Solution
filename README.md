@@ -28,6 +28,7 @@ Competative Programming
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2145-grid-game](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2145-grid-game) |
+| [2448-count-number-of-bad-pairs](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2448-count-number-of-bad-pairs) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -46,6 +47,7 @@ Competative Programming
 | [1468-check-if-n-and-its-double-exist](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2434-design-a-number-container-system](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2434-design-a-number-container-system) |
+| [2448-count-number-of-bad-pairs](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2448-count-number-of-bad-pairs) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Kamal6495/Leetcode_Solution/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -56,6 +58,7 @@ Competative Programming
 | [0009-palindrome-number](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0029-divide-two-integers) |
 | [0060-permutation-sequence](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0060-permutation-sequence) |
+| [2448-count-number-of-bad-pairs](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2448-count-number-of-bad-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -104,6 +107,7 @@ Competative Programming
 | [1364-tuple-with-same-product](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1396-count-servers-that-communicate) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2448-count-number-of-bad-pairs](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2448-count-number-of-bad-pairs) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Kamal6495/Leetcode_Solution/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Greedy
 |  |
