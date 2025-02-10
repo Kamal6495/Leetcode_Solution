@@ -6,11 +6,6 @@ class Solution {
 
             if (Character.isDigit(c) && !st.empty()) {
 
-                /*
-                 * while (!st.empty() && Character.isDigit(st.peek()))
-                 * st.pop();
-                 */
-
                 st.pop();
             } else
                 st.push(c);
