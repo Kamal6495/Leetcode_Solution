@@ -11,9 +11,9 @@ class Solution {
                 st.push(c);
         }
 
-        String result = "";
+        StringBuilder result = new StringBuilder() ;
         for (char c : st) {
-            result += c;
+            result.append(c);
         }
 
         return result.toString();
