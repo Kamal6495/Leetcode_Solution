@@ -98,6 +98,7 @@ Competative Programming
 | [0889-buddy-strings](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0889-buddy-strings) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [3447-clear-digits](https://github.com/Kamal6495/Leetcode_Solution/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Kamal6495/Leetcode_Solution/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String Matching
 |  |
@@ -217,6 +218,7 @@ Competative Programming
 |  |
 | ------- |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Kamal6495/Leetcode_Solution/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/Kamal6495/Leetcode_Solution/tree/master/3447-clear-digits) |
 ## Design
 |  |
 | ------- |
@@ -225,4 +227,8 @@ Competative Programming
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2434-design-a-number-container-system) |
+## Stack
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/Kamal6495/Leetcode_Solution/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
