@@ -43,6 +43,7 @@ Competative Programming
 | ------- |
 | [0001-two-sum](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0037-sudoku-solver) |
+| [0889-buddy-strings](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0889-buddy-strings) |
 | [1364-tuple-with-same-product](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1364-tuple-with-same-product) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -94,6 +95,7 @@ Competative Programming
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0131-palindrome-partitioning) |
 | [0824-number-of-lines-to-write-string](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0824-number-of-lines-to-write-string) |
+| [0889-buddy-strings](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0889-buddy-strings) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Kamal6495/Leetcode_Solution/tree/master/3455-minimum-length-of-string-after-operations) |
