@@ -1,6 +1,6 @@
 class Solution {
 public:
-    long long ops(long long x, long long y) { return ((min(x, y) * 2ll + max(x, y))); }
+    long long ops(long long x, long long y) { return (2ll*x+y); }
 
     int minOperations(vector<int>& nums, int k) {
 
