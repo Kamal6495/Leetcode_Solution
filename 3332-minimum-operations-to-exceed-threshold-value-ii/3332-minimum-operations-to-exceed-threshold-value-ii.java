@@ -14,7 +14,7 @@ class Solution {
         while (pq.peek() < k && pq.size() > 1) {
             long x = pq.poll();
             long y = pq.poll();
-                pq.add(ops(x, y));
+             pq.add(ops(x, y));
             l++;
 
         }
