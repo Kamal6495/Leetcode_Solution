@@ -1,26 +1,40 @@
 class Solution {
-    int getDigitSum(int val){
-        int sum=0;
-        while(val){
-            sum += val%10;
-            val /= 10;
-        }
-        return sum;
-    }
 public:
-    int maximumSum(vector<int>& nums) {
-        unordered_map<int,int> sum_maxval;
-        int max_sum=-1;
-        for(int ele: nums){
-            int digit_sum = getDigitSum(ele);
-            if(sum_maxval.count(digit_sum)){
-                max_sum = max(max_sum, ele + sum_maxval[digit_sum]);
-                if(sum_maxval[digit_sum]<ele)
-                    sum_maxval[digit_sum]=ele;
-            }else{
-                sum_maxval[digit_sum] = ele;
-            }
+    int digitSum(int n) {
+        int res = 0;
+        int num = n;
+        while (num > 0) {
+            res += num % 10;
+            num /= 10;
         }
-        return max_sum;
+        return res;
+    }
+    int maximumSum(vector<int>& nums) {
+        map<int, pair<int, int>> mp;
+
+        int res = -1;
+
+        for (int num : nums) {
+
+            int dSum = digitSum(num);
+
+            auto& p = mp[dSum];
+
+            
+            if (num > p.first) {
+                p.second = p.first;
+                p.first = num;
+
+            } else if (num > p.second) {
+                p.second = num;
+            }
+
+            if(p.second!=0){
+                res=max(res,p.first+p.second);
+            }
+
+           // cout<<num<<" "<<p.first<<" "<<p.second<<endl;
+        }
+        return res;
     }
 };
