@@ -48,6 +48,7 @@ Competative Programming
 | [0001-two-sum](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0037-sudoku-solver) |
 | [0889-buddy-strings](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0889-buddy-strings) |
+| [1160-letter-tile-possibilities](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1364-tuple-with-same-product) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -104,6 +105,7 @@ Competative Programming
 | [0131-palindrome-partitioning](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0131-palindrome-partitioning) |
 | [0824-number-of-lines-to-write-string](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0824-number-of-lines-to-write-string) |
 | [0889-buddy-strings](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0889-buddy-strings) |
+| [1160-letter-tile-possibilities](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1160-letter-tile-possibilities) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -116,6 +118,7 @@ Competative Programming
 ## Counting
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1396-count-servers-that-communicate) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -218,6 +221,7 @@ Competative Programming
 | [0078-subsets](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0131-palindrome-partitioning) |
+| [1160-letter-tile-possibilities](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Dynamic Programming
