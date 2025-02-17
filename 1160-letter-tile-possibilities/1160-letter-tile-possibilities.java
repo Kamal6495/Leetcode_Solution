@@ -20,18 +20,19 @@ class Solution {
         // For each character, if its count is > 0, it can be used to form a sequence
         for (Map.Entry<Character, Integer> i : map.entrySet()) {
             // If the character count is positive
-            if (i.getValue() > 0) {
+            if (i.getValue() > 0)
+             {
                 // Form a valid sequence by using this character
                 count++; // Add this sequence
 
                 // Reduce the frequency of this character
                 map.put(i.getKey(), i.getValue() - 1);
-                
+
                 // Continue to form further sequences
                 solve(map);
-                
+
                 // Backtrack, restore the frequency of the character
-                map.put(i.getKey(), i.getValue()+1);
+                map.put(i.getKey(), i.getValue() + 1);
             }
         }
     }
