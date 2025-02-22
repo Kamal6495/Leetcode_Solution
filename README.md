@@ -108,6 +108,7 @@ Competative Programming
 | [0131-palindrome-partitioning](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0131-palindrome-partitioning) |
 | [0824-number-of-lines-to-write-string](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0824-number-of-lines-to-write-string) |
 | [0889-buddy-strings](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0889-buddy-strings) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1160-letter-tile-possibilities) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -197,6 +198,7 @@ Competative Programming
 | [0684-redundant-connection](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0854-making-a-large-island) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1558-course-schedule-iv) |
@@ -272,9 +274,11 @@ Competative Programming
 ## Tree
 |  |
 | ------- |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 <!---LeetCode Topics End-->
