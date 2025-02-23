@@ -20,6 +20,7 @@ Competative Programming
 | [0506-relative-ranks](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0506-relative-ranks) |
 | [0824-number-of-lines-to-write-string](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0824-number-of-lines-to-write-string) |
 | [0854-making-a-large-island](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0854-making-a-large-island) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1364-tuple-with-same-product](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1396-count-servers-that-communicate) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -49,6 +50,7 @@ Competative Programming
 | [0001-two-sum](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0037-sudoku-solver) |
 | [0889-buddy-strings](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0889-buddy-strings) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -102,6 +104,7 @@ Competative Programming
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## String
 |  |
 | ------- |
@@ -274,11 +277,13 @@ Competative Programming
 ## Tree
 |  |
 | ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 <!---LeetCode Topics End-->
