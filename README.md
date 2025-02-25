@@ -26,6 +26,7 @@ Competative Programming
 | [1468-check-if-n-and-its-double-exist](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1876-map-of-highest-peak](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -71,6 +72,7 @@ Competative Programming
 | [0029-divide-two-integers](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0029-divide-two-integers) |
 | [0060-permutation-sequence](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0060-permutation-sequence) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Bit Manipulation
@@ -194,6 +196,7 @@ Competative Programming
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2145-grid-game](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2145-grid-game) |
 ## Depth-First Search
 |  |
@@ -243,6 +246,7 @@ Competative Programming
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0131-palindrome-partitioning) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Recursion
 |  |
 | ------- |
