@@ -1,12 +1,6 @@
 class Solution {
     public long coloredCells(int n) {
-        long res = 1l;
-
-        for (int i = 1; i < n; i++) {
-            res += 4l * (long) i;
-
-        }
-
-        return res;
+        return 1l+2l*n*(n-1l);
+           
     }
 }
