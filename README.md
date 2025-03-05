@@ -82,6 +82,7 @@ Competative Programming
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2448-count-number-of-bad-pairs](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2448-count-number-of-bad-pairs) |
+| [2575-minimum-cuts-to-divide-a-circle](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Bit Manipulation
@@ -308,4 +309,8 @@ Competative Programming
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Geometry
+|  |
+| ------- |
+| [2575-minimum-cuts-to-divide-a-circle](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
