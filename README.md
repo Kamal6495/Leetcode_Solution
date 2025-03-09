@@ -51,6 +51,7 @@ Competative Programming
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Kamal6495/Leetcode_Solution/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Kamal6495/Leetcode_Solution/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Kamal6495/Leetcode_Solution/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3483-alternating-groups-ii](https://github.com/Kamal6495/Leetcode_Solution/tree/master/3483-alternating-groups-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -327,4 +328,5 @@ Competative Programming
 |  |
 | ------- |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3483-alternating-groups-ii](https://github.com/Kamal6495/Leetcode_Solution/tree/master/3483-alternating-groups-ii) |
 <!---LeetCode Topics End-->
