@@ -57,6 +57,7 @@ Competative Programming
 | ------- |
 | [0001-two-sum](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0037-sudoku-solver) |
+| [0202-happy-number](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0202-happy-number) |
 | [0889-buddy-strings](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0889-buddy-strings) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -81,6 +82,7 @@ Competative Programming
 | [0009-palindrome-number](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0029-divide-two-integers) |
 | [0060-permutation-sequence](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0060-permutation-sequence) |
+| [0202-happy-number](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0202-happy-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -103,6 +105,7 @@ Competative Programming
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0202-happy-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2265-partition-array-according-to-given-pivot) |
