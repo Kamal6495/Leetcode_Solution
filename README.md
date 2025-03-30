@@ -70,6 +70,7 @@ Competative Programming
 | [0001-two-sum](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0037-sudoku-solver) |
 | [0202-happy-number](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0202-happy-number) |
+| [0768-partition-labels](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0768-partition-labels) |
 | [0889-buddy-strings](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0889-buddy-strings) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -129,6 +130,7 @@ Competative Programming
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0202-happy-number) |
+| [0768-partition-labels](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0768-partition-labels) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -162,6 +164,7 @@ Competative Programming
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0131-palindrome-partitioning) |
+| [0768-partition-labels](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0768-partition-labels) |
 | [0824-number-of-lines-to-write-string](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0824-number-of-lines-to-write-string) |
 | [0889-buddy-strings](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0889-buddy-strings) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -196,6 +199,7 @@ Competative Programming
 ## Greedy
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0768-partition-labels) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2509-minimize-xor) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Kamal6495/Leetcode_Solution/tree/master/3001-apply-operations-to-maximize-score) |
