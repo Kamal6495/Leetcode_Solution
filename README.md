@@ -17,6 +17,7 @@ Competative Programming
 | [0051-n-queens](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0349-intersection-of-two-arrays) |
@@ -144,6 +145,7 @@ Competative Programming
 | [0029-divide-two-integers](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0136-single-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2478-longest-nice-subarray) |
