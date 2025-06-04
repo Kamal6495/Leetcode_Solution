@@ -1,29 +1,33 @@
+import java.util.*;
+
 class Solution {
     public int[] intersection(int[] nums1, int[] nums2) {
-        Arrays.sort(nums1);
-        Arrays.sort(nums2);
-        ArrayList<Integer> arr = new ArrayList<>();
+        HashMap<Integer, Integer> freq1 = new HashMap<>();
+        HashMap<Integer, Integer> freq2 = new HashMap<>();
 
-        int i = 0, j = 0;
-        int n1 = nums1.length, n2 = nums2.length;
-        while (i < n1 && j < n2) {
-
-            if ((arr.isEmpty() || arr.get(arr.size() - 1) != nums1[i]) && nums1[i] == nums2[j]) {
-                arr.add(nums1[i]);
-                i++;
-                j++;
-            } else if (nums1[i] < nums2[j])
-                i++;
-            else
-                j++;
+        // Count frequency in nums1
+        for (int num : nums1) {
+            freq1.put(num, freq1.getOrDefault(num, 0) + 1);
         }
-        // convert to int[]
-        int[] result = new int[arr.size()];
-        for (int k = 0; k < arr.size(); k++) {
-            result[k] = arr.get(k);
+
+        // Count frequency in nums2
+        for (int num : nums2) {
+            freq2.put(num, freq2.getOrDefault(num, 0) + 1);
+        }
+
+        ArrayList<Integer> resultList = new ArrayList<>();
+        for (Integer key : freq1.keySet()) {
+            if (freq2.containsKey(key)) {
+                resultList.add(key); // present in both arrays
+            }
+        }
+
+        // Convert ArrayList to int[]
+        int[] result = new int[resultList.size()];
+        for (int i = 0; i < resultList.size(); i++) {
+            result[i] = resultList.get(i);
         }
 
         return result;
-
     }
 }
