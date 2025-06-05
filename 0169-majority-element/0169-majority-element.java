@@ -13,6 +13,8 @@ class Solution {
                     count = 1;
                 }
             }
+
+           // System.out.println(nums[i]+" ="+count+" cabdiate="+candidate);
         }
 
         return candidate;
