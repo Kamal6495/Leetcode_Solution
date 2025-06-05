@@ -20,6 +20,7 @@ Competative Programming
 | [0090-subsets-ii](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0349-intersection-of-two-arrays) |
@@ -88,6 +89,7 @@ Competative Programming
 | ------- |
 | [0001-two-sum](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0037-sudoku-solver) |
+| [0169-majority-element](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0560-subarray-sum-equals-k) |
@@ -189,6 +191,7 @@ Competative Programming
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0368-largest-divisible-subset) |
 | [0506-relative-ranks](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0506-relative-ranks) |
@@ -205,6 +208,7 @@ Competative Programming
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0169-majority-element) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0948-sort-an-array) |
 ## String
@@ -236,6 +240,7 @@ Competative Programming
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0169-majority-element) |
 | [1160-letter-tile-possibilities](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1396-count-servers-that-communicate) |
