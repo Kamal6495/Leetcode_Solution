@@ -15,6 +15,7 @@ Competative Programming
 | [0046-permutations](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0051-n-queens) |
+| [0075-sort-colors](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0136-single-number) |
@@ -162,6 +163,7 @@ Competative Programming
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0202-happy-number) |
@@ -186,6 +188,7 @@ Competative Programming
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0368-largest-divisible-subset) |
 | [0506-relative-ranks](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0506-relative-ranks) |
