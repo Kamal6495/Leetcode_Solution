@@ -26,6 +26,7 @@ Competative Programming
 | [0416-partition-equal-subset-sum](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0506-relative-ranks) |
+| [0560-subarray-sum-equals-k](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0824-number-of-lines-to-write-string](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0824-number-of-lines-to-write-string) |
 | [0854-making-a-large-island](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -87,6 +88,7 @@ Competative Programming
 | [0037-sudoku-solver](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0037-sudoku-solver) |
 | [0202-happy-number](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0349-intersection-of-two-arrays) |
+| [0560-subarray-sum-equals-k](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0768-partition-labels](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0768-partition-labels) |
 | [0889-buddy-strings](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0889-buddy-strings) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -310,6 +312,7 @@ Competative Programming
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0560-subarray-sum-equals-k) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2145-grid-game](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2145-grid-game) |
