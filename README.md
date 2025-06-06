@@ -15,6 +15,7 @@ Competative Programming
 | [0046-permutations](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0090-subsets-ii) |
@@ -208,6 +209,7 @@ Competative Programming
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0169-majority-element) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0948-sort-an-array) |
@@ -383,6 +385,7 @@ Competative Programming
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0053-maximum-subarray) |
 | [0131-palindrome-partitioning](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0131-palindrome-partitioning) |
 | [0368-largest-divisible-subset](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0416-partition-equal-subset-sum) |
