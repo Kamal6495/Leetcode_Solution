@@ -13,23 +13,23 @@ class Solution {
                     else
                         col0 = 0;
                 }
-            }}
-
-            for (int i = n - 1; i >= 1; i--) {
-                for (int j = m - 1; j >= 1; j--) {
-                    if (mat[i][0] == 0 || mat[0][j] == 0)
-                        mat[i][j] = 0;
-
-                }
             }
+        }
 
+        for (int i = n - 1; i >= 1; i--) {
+            for (int j = m - 1; j >= 1; j--) {
+                if (mat[i][0] == 0 || mat[0][j] == 0)
+                    mat[i][j] = 0;
+
+            }
+        }
+
+        if (mat[0][0] == 0)
             for (int j = 0; j < m; j++)
-                if (mat[0][0] == 0)
-                    mat[0][j] = 0;
+                mat[0][j] = 0;
+        if (col0 == 0)
             for (int i = 0; i < n; i++)
-                if (col0 == 0)
-                    mat[i][0] = 0;
+                mat[i][0] = 0;
 
-        
     }
 }
