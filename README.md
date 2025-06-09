@@ -18,6 +18,7 @@ Competative Programming
 | [0048-rotate-image](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0078-subsets) |
@@ -322,6 +323,7 @@ Competative Programming
 | ------- |
 | [0037-sudoku-solver](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0854-making-a-large-island) |
@@ -421,6 +423,7 @@ Competative Programming
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0054-spiral-matrix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2271-rearrange-array-elements-by-sign) |
