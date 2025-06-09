@@ -17,6 +17,7 @@ Competative Programming
 | [0047-permutations-ii](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0090-subsets-ii) |
@@ -95,6 +96,7 @@ Competative Programming
 | ------- |
 | [0001-two-sum](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0202-happy-number) |
@@ -317,6 +319,7 @@ Competative Programming
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1396-count-servers-that-communicate) |
