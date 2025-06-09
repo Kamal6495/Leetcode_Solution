@@ -15,6 +15,7 @@ Competative Programming
 | [0040-combination-sum-ii](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0073-set-matrix-zeroes) |
@@ -135,6 +136,7 @@ Competative Programming
 | ------- |
 | [0009-palindrome-number](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0060-permutation-sequence) |
 | [0189-rotate-array](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0202-happy-number) |
@@ -319,6 +321,7 @@ Competative Programming
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0854-making-a-large-island) |
