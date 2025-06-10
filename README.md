@@ -23,6 +23,7 @@ Competative Programming
 | [0075-sort-colors](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0090-subsets-ii) |
+| [0119-pascals-triangle-ii](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0136-single-number) |
@@ -405,6 +406,7 @@ Competative Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0053-maximum-subarray) |
+| [0119-pascals-triangle-ii](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0131-palindrome-partitioning) |
 | [0368-largest-divisible-subset](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0368-largest-divisible-subset) |
