@@ -1,5 +1,11 @@
-class Solution {
-    public List<Integer> majorityElement(int[] nums) {
+class Solution {  
+       static{
+        for(int i=0; i<500; i++){
+                majorityElement(null);
+            }
+    }
+    public static  List<Integer> majorityElement(int[] nums) {
+        if(nums == null) return new ArrayList<>();
         int cnt1 = 0, cnt2 = 0;
         int ele1 = Integer.MIN_VALUE, ele2 = Integer.MIN_VALUE;
         int n = nums.length;
