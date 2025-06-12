@@ -3,23 +3,38 @@ class Solution {
         List<List<Integer>> res = new ArrayList<>();
         Set<List<Integer>> t = new HashSet<>();
         int n = nums.length;
+        Arrays.sort(nums);
         for (int i = 0; i < n; i++) {
+            if (i > 0 && nums[i] == nums[i - 1])
+                continue;
             for (int j = i + 1; j < n; j++) {
-                Set<Long> hs = new HashSet<>();
-                for (int k = j + 1; k < n; k++) {
+                if (j > i + 1 && nums[j] == nums[j - 1])
+                    continue;
+                int k = j + 1;
+                int l = n - 1;
+                while (k < l) {
+                    long sum = (long) nums[i] + nums[j] + nums[k] + nums[l];
 
-                    long a = nums[i]; long b = nums[j]; long c = nums[k];
-                    long l = (long) target - a -  b - c;
-
-                    if (hs.contains(l)) {
-                       List<Integer> quad = Arrays.asList((int) a, (int) b, (int) c, (int) l);
+                    if (sum < (long) target) {
+                        k++;
+                    } else if (sum > (long) target) {
+                        l--;
+                    } else {
+                        List<Integer> quad = Arrays.asList(nums[i], nums[j], nums[k], nums[l]);
                         Collections.sort(quad);
                         t.add(quad);
-                    }
-                    hs.add((long)nums[k]);
+                        
+                        while (k < l && nums[k] == nums[k + 1])
+                            k++;
+                        while (k < l && nums[l] == nums[l - 1])
+                            l--;
 
-                    
+                            k++;
+                        l--;
+
+                    }
                 }
+
             }
         }
 
