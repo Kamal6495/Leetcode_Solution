@@ -1,26 +1,29 @@
 class Solution {
-
-
+    //Using Shell Sort Gap Method , Optimal Solution 2
     public void merge(int[] arr1, int m, int[] arr2, int n) {
-        int left = m - 1;
-        int right = 0;
+        int m1=m;
+        for (int num : arr2) {
+            arr1[m1++] = num;
+        }
+      //  System.out.println(Arrays.toString(arr1));
+        // int gap=(int)Math.ciel((m+n)*0.5);
+        int gap = ((m + n) / 2) + ((m + n) % 2);
+        while (gap >= 1) {
+           
+            int left = 0;
+            int right = gap;
+            while (right < m+n) {
+                if (arr1[left] > arr1[right]) {
+                    int temp = arr1[left];
+                    arr1[left] = arr1[right];
+                    arr1[right] = temp;
 
-        while (left >= 0 && right < n) {
-            if (arr1[left] > arr2[right]) {
-                int temp = arr1[left];
-                arr1[left] = arr2[right];
-                arr1[right + m] = temp;
-                left--;
+                }
+                left++;
                 right++;
-            } else
-                break;
-
+            }
+            if(gap==1) break;
+            gap = (gap / 2) + (gap % 2);
         }
-        while (right < n) {
-            arr1[right + m] = arr2[right];
-            right++;
-        }
-        Arrays.sort(arr1);
-
     }
 }
