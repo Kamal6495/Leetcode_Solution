@@ -42,6 +42,7 @@ Competative Programming
 | [0407-trapping-rain-water-ii](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0493-reverse-pairs) |
 | [0506-relative-ranks](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0824-number-of-lines-to-write-string](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0824-number-of-lines-to-write-string) |
@@ -209,6 +210,7 @@ Competative Programming
 | [0004-median-of-two-sorted-arrays](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0349-intersection-of-two-arrays) |
+| [0493-reverse-pairs](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0493-reverse-pairs) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -242,6 +244,7 @@ Competative Programming
 | [0004-median-of-two-sorted-arrays](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0493-reverse-pairs) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0948-sort-an-array) |
 ## String
@@ -459,6 +462,7 @@ Competative Programming
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0493-reverse-pairs) |
 | [2434-design-a-number-container-system](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2434-design-a-number-container-system) |
 ## Stack
 |  |
@@ -525,6 +529,7 @@ Competative Programming
 ## Merge Sort
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -538,4 +543,12 @@ Competative Programming
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0948-sort-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
