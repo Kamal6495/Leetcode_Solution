@@ -152,6 +152,7 @@ Competative Programming
 | [0189-rotate-array](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0202-happy-number) |
 | [0368-largest-divisible-subset](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0368-largest-divisible-subset) |
+| [1013-fibonacci-number](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1013-fibonacci-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -434,6 +435,7 @@ Competative Programming
 | [0368-largest-divisible-subset](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0416-partition-equal-subset-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1013-fibonacci-number](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1013-fibonacci-number) |
 | [1170-shortest-common-supersequence](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -444,6 +446,7 @@ Competative Programming
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0060-permutation-sequence) |
+| [1013-fibonacci-number](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1013-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -553,4 +556,8 @@ Competative Programming
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0493-reverse-pairs) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
