@@ -149,6 +149,7 @@ Competative Programming
 | [0029-divide-two-integers](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0060-permutation-sequence) |
+| [0070-climbing-stairs](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0202-happy-number) |
 | [0368-largest-divisible-subset](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0368-largest-divisible-subset) |
@@ -429,6 +430,7 @@ Competative Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -561,5 +563,6 @@ Competative Programming
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
