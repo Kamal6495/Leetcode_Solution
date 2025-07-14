@@ -46,6 +46,7 @@ Competative Programming
 | [0493-reverse-pairs](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0493-reverse-pairs) |
 | [0506-relative-ranks](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0560-subarray-sum-equals-k) |
+| [0792-binary-search](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0792-binary-search) |
 | [0824-number-of-lines-to-write-string](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0824-number-of-lines-to-write-string) |
 | [0854-making-a-large-island](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -216,6 +217,7 @@ Competative Programming
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0493-reverse-pairs) |
+| [0792-binary-search](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0792-binary-search) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
