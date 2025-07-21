@@ -67,6 +67,7 @@ Competative Programming
 | [1468-check-if-n-and-its-double-exist](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -238,6 +239,7 @@ Competative Programming
 | [0907-koko-eating-bananas](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0907-koko-eating-bananas) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3643-zero-array-transformation-ii](https://github.com/Kamal6495/Leetcode_Solution/tree/master/3643-zero-array-transformation-ii) |
 ## Sorting
