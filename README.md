@@ -157,6 +157,7 @@ Competative Programming
 | [0029-divide-two-integers](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0060-permutation-sequence) |
+| [0069-sqrtx](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0202-happy-number) |
@@ -224,6 +225,7 @@ Competative Programming
 | [0033-search-in-rotated-sorted-array](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0162-find-peak-element) |
