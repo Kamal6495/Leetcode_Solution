@@ -1,49 +1,53 @@
 class Solution {
-    public int shipWithinDays(int[] weights, int days) {
-        int low = minA(weights);
-        int high = sumA(weights);
-        int ans = weights.length;
+  public int shipWithinDays(int[] weights, int days) {
+    int low = minA(weights);
+    int high = sumA(weights);
+    int ans = high;
 
-        while(low<=high) {
-          int mid=low+((high-low)/2);
-            int presum = 0;
-            int j = 0;
-            int d = 1; // at least 1 day
+    while (low <= high) {
+      int mid = low + ((high - low) / 2);
 
-            while (j < weights.length) {
-                presum += weights[j++];
+      int reqiuredDays = reqDays(weights, mid);
 
-                if (presum > mid) {
-                    d++;
-                    presum = weights[j - 1];
-                }
-            }
-
-
-
-            if (d <= days) { // ✅ Corrected condition
-              ans=mid;
-              high=mid-1;
-            }
-            else{
-              low=mid+1;
-            }
-        }
-
-        return ans;
+      if (reqiuredDays <= days) { 
+        ans = mid;
+        high = mid - 1;
+      } else {
+        low = mid + 1;
+      }
     }
 
-    public int minA(int[] arr) {
-        int x = Integer.MIN_VALUE; 
-        for (int num : arr)
-            x = Math.max(x, num);
-        return x;
+    return ans;
+  }
+
+  public int reqDays(int arr[], int cap) {
+    int days = 1;
+    int load = 0;
+
+    for (int i = 0; i < arr.length; i++) {
+      if ((arr[i] + load) > cap) {
+        days = days + 1;
+        load = arr[i];
+      } else {
+        load += arr[i];
+      }
     }
 
-    public int sumA(int[] arr) {
-        int x = 0;
-        for (int num : arr)
-            x += num;
-        return x;
-    }
+    return days;
+  }
+
+  public int minA(int[] arr) {
+    int x = Integer.MIN_VALUE;
+    for (int num : arr)
+      x = Math.max(x, num);
+    return x;
+  }
+
+  public int sumA(int[] arr) {
+    int x = 0;
+    for (int num : arr)
+      x += num;
+    return x;
+  }
+
 }
