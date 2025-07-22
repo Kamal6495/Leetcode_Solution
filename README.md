@@ -71,6 +71,7 @@ Competative Programming
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1646-kth-missing-positive-number](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1646-kth-missing-positive-number) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1876-map-of-highest-peak) |
@@ -244,6 +245,7 @@ Competative Programming
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1646-kth-missing-positive-number](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1646-kth-missing-positive-number) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3643-zero-array-transformation-ii](https://github.com/Kamal6495/Leetcode_Solution/tree/master/3643-zero-array-transformation-ii) |
 ## Sorting
