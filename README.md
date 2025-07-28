@@ -410,6 +410,7 @@ Competative Programming
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0684-redundant-connection](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0820-find-eventual-safe-states) |
@@ -512,6 +513,7 @@ Competative Programming
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -524,6 +526,7 @@ Competative Programming
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -532,6 +535,7 @@ Competative Programming
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
