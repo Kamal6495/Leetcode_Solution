@@ -14,6 +14,7 @@
  * }
  */
 class Solution {
+  /**Recursion - Depth First Search Way */
     public int maxDepth(TreeNode root) {
         if(root==null) return 0;
 
