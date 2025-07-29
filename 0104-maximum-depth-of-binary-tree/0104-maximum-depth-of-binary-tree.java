@@ -14,13 +14,27 @@
  * }
  */
 class Solution {
-  /**Recursion - Depth First Search Way */
-    public int maxDepth(TreeNode root) {
-        if(root==null) return 0;
+  /**Iterative - Breadth First Search Way */
+  public int maxDepth(TreeNode root) {
+    int depth = 0;
+    Queue<TreeNode> q = new LinkedList<>();
+    if (root == null)
+      return 0;
 
-        int lh=maxDepth(root.left);
-        int rh=maxDepth(root.right);
+    q.offer(root);
 
-        return 1+Math.max(lh,rh);
+    while (!q.isEmpty()) {
+      int size = q.size();
+
+      for (int i = 0; i < size; i++) {
+      TreeNode curr = q.poll();
+        if (curr.left != null)
+          q.offer(curr.left);
+        if (curr.right != null)
+          q.offer(curr.right);
+      }
+      depth++;
     }
+    return depth;
+  }
 }
