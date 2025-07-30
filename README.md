@@ -620,4 +620,8 @@ Competative Programming
 | [0070-climbing-stairs](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1236-n-th-tribonacci-number) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
