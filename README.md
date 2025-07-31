@@ -132,6 +132,7 @@ Competative Programming
 | [0889-buddy-strings](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0889-buddy-strings) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1160-letter-tile-possibilities](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1364-tuple-with-same-product](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1364-tuple-with-same-product) |
@@ -265,6 +266,7 @@ Competative Programming
 | [0506-relative-ranks](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0506-relative-ranks) |
 | [0948-sort-an-array](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0958-sort-array-by-parity-ii) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -346,6 +348,7 @@ Competative Programming
 | [0684-redundant-connection](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0854-making-a-large-island) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1396-count-servers-that-communicate) |
@@ -425,6 +428,7 @@ Competative Programming
 | [0684-redundant-connection](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0854-making-a-large-island) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -549,6 +553,7 @@ Competative Programming
 | [0145-binary-tree-postorder-traversal](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -566,6 +571,7 @@ Competative Programming
 | [0145-binary-tree-postorder-traversal](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
