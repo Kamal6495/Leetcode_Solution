@@ -428,6 +428,7 @@ Competative Programming
 | [0144-binary-tree-preorder-traversal](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0820-find-eventual-safe-states) |
@@ -557,6 +558,7 @@ Competative Programming
 | [0144-binary-tree-preorder-traversal](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -577,6 +579,7 @@ Competative Programming
 | [0144-binary-tree-preorder-traversal](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
