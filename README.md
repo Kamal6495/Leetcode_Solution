@@ -96,6 +96,7 @@ Competative Programming
 | [2681-put-marbles-in-bags](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2681-put-marbles-in-bags) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2737-row-with-maximum-ones](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2737-row-with-maximum-ones) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2792-neighboring-bitwise-xor) |
@@ -400,6 +401,7 @@ Competative Programming
 | [2145-grid-game](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2685-first-completely-painted-row-or-column) |
+| [2737-row-with-maximum-ones](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2737-row-with-maximum-ones) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/Kamal6495/Leetcode_Solution/tree/master/3227-find-missing-and-repeated-values) |
 ## Shortest Path
