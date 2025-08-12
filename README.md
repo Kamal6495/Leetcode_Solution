@@ -26,6 +26,7 @@ Competative Programming
 | [0054-spiral-matrix](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -234,6 +235,7 @@ Competative Programming
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0162-find-peak-element) |
@@ -393,6 +395,7 @@ Competative Programming
 | [0048-rotate-image](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0074-search-a-2d-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1396-count-servers-that-communicate) |
