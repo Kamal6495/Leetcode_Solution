@@ -1,11 +1,13 @@
-import java.util.*;
 class Solution {
   public String reverseWords(String s) {
-    StringTokenizer st = new StringTokenizer(s);
-    String res = "";
-    while (st.hasMoreTokens()) {
-      res = st.nextToken() + " " + res;
+    s = s.trim();
+    String s1[] = s.split("\\s+");
+    StringBuilder sb = new StringBuilder();
+    for (int i = s1.length - 1; i >= 0; i--) {
+      sb.append(s1[i]);
+      if (i > 0)
+        sb.append(" ");
     }
-    return res.substring(0, res.length() - 1);
+    return sb.toString();
   }
 }
