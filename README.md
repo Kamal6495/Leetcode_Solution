@@ -216,6 +216,7 @@ Competative Programming
 | [0075-sort-colors](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0202-happy-number) |
@@ -297,6 +298,7 @@ Competative Programming
 | ------- |
 | [0125-valid-palindrome](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0131-palindrome-partitioning) |
+| [0151-reverse-words-in-a-string](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0768-partition-labels](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0768-partition-labels) |
 | [0824-number-of-lines-to-write-string](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0824-number-of-lines-to-write-string) |
 | [0889-buddy-strings](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0889-buddy-strings) |
