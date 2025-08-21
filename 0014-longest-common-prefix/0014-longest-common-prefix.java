@@ -8,14 +8,15 @@ class Solution {
       minLen = Math.min(minLen, s.length());
 
     for (int i = 0; i < minLen; i++) {
-      s1 = strs[0].substring(0, j + 1);
+
+      char c = strs[0].charAt(j);
       for (int k = 1; k < n; k++) {
-        if (!s1.equalsIgnoreCase(strs[k].substring(0, j + 1)))
+        if (c != strs[k].charAt(j))
           return strs[0].substring(0, j);
       }
       j++;
 
     }
-    return s1;
+    return strs[0].substring(0, j);
   }
 }
