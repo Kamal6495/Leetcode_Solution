@@ -179,6 +179,7 @@ Competative Programming
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2032-largest-odd-number-in-string](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2032-largest-odd-number-in-string) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2448-count-number-of-bad-pairs) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2575-minimum-cuts-to-divide-a-circle) |
@@ -310,6 +311,7 @@ Competative Programming
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2032-largest-odd-number-in-string](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2032-largest-odd-number-in-string) |
 | [2107-find-unique-binary-string](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -340,6 +342,7 @@ Competative Programming
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0410-split-array-largest-sum) |
 | [0768-partition-labels](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0768-partition-labels) |
+| [2032-largest-odd-number-in-string](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2032-largest-odd-number-in-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2509-minimize-xor) |
 | [2681-put-marbles-in-bags](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2681-put-marbles-in-bags) |
