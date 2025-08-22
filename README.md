@@ -132,6 +132,7 @@ Competative Programming
 | [0202-happy-number](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0768-partition-labels](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0768-partition-labels) |
@@ -272,6 +273,7 @@ Competative Programming
 | [0088-merge-sorted-array](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0368-largest-divisible-subset) |
 | [0506-relative-ranks](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0506-relative-ranks) |
@@ -304,6 +306,7 @@ Competative Programming
 | [0131-palindrome-partitioning](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0242-valid-anagram) |
 | [0768-partition-labels](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0812-rotate-string) |
 | [0824-number-of-lines-to-write-string](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0824-number-of-lines-to-write-string) |
