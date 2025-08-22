@@ -305,6 +305,7 @@ Competative Programming
 | [0151-reverse-words-in-a-string](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0205-isomorphic-strings) |
 | [0768-partition-labels](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0768-partition-labels) |
+| [0812-rotate-string](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0812-rotate-string) |
 | [0824-number-of-lines-to-write-string](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0824-number-of-lines-to-write-string) |
 | [0889-buddy-strings](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0889-buddy-strings) |
 | [1078-remove-outermost-parentheses](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1078-remove-outermost-parentheses) |
@@ -327,6 +328,7 @@ Competative Programming
 ## String Matching
 |  |
 | ------- |
+| [0812-rotate-string](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0812-rotate-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Counting
 |  |
