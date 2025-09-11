@@ -1,15 +1,20 @@
 class Solution {
-  public boolean isAnagram(String s, String t) {
-    char s1[] = s.toCharArray();
-    char t1[] = t.toCharArray();
+    public boolean isAnagram(String s, String t) {
+        if (s.length() != t.length()) return false;
 
-    Arrays.sort(s1);
-    Arrays.sort(t1);
+        // ASCII charset is enough (0-127)
+        int[] freq = new int[128];
 
-    s = String.valueOf(s1);
-    t = String.valueOf(t1);
+        for (int i = 0; i < s.length(); i++) {
+            freq[s.charAt(i)]++;
+            freq[t.charAt(i)]--;
+        }
 
-    return s.equalsIgnoreCase(t);
+        // Check if all counts are zero
+        for (int count : freq) {
+            if (count != 0) return false;
+        }
 
-  }
+        return true;
+    }
 }
