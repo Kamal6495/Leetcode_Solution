@@ -1,49 +1,36 @@
 class Solution {
   public int findCircleNum(int[][] isConnected) {
-    return countProvinces(isConnected);
-  }
+    int V = isConnected.length;
+    List<Integer>[] adj = new ArrayList[V];
+    for (int i = 0; i < V; i++) {
+      adj[i] = new ArrayList<>();
+    }
 
-  public int countProvinces(int[][] isConnected) {
-    int v = isConnected.length;
-    int T[][] = WarshallClosure(isConnected, v);
-
-    int cnt = 0;
-    boolean vis[] = new boolean[v];
-
-    for (int i = 0; i < v; i++) {
-      if (!vis[i]) {
-        cnt++;
-        for (int j = 0; j < v; j++) {
-          if (T[i][j] == 1 || T[j][i] == 1)
-            vis[j] = true;
+    // Fill adjacency list
+    for (int i = 0; i < V; i++) {
+      for (int j = 0; j < V; j++) {
+        if (isConnected[i][j] == 1 && i != j) {
+          adj[i].add(j);
         }
       }
+    }
+    int cnt = 0;
+    boolean vis[] = new boolean[V];
+    for (int i = 0; i < V; i++) {
+      if (!vis[i]) {
+        cnt++;
+        dfs(adj, i, vis);
+      }
+
     }
     return cnt;
   }
 
-  public int[][] WarshallClosure(int[][] isConnected, int v) {
-    int T[][] = new int[v][v];
-
-    for (int i = 0; i < v; i++) {
-      for (int j = 0; j < v; j++) {
-        if (isConnected[i][j] == 1)
-          T[i][j] = 1;
-        else
-          T[i][j] = 0;
-      }
+  public void dfs(List<Integer>[] adj, int src, boolean vis[]) {
+    vis[src] = true;
+    for (int num : adj[src]) {
+      if (!vis[num])
+        dfs(adj, num, vis);
     }
-
-    for (int k = 0; k < v; k++) {
-      for (int i = 0; i < v; i++) {
-        for (int j = 0; j < v; j++) {
-          if (T[i][j] == 1 || (T[i][k] == 1) && T[k][j] == 1)
-            T[i][j] = 1;
-          else
-            T[i][j] = 0;
-        }
-      }
-    }
-    return T;
   }
 }
