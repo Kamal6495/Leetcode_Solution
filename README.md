@@ -370,6 +370,7 @@ Competative Programming
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0407-trapping-rain-water-ii](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0407-trapping-rain-water-ii) |
+| [0547-number-of-provinces](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0820-find-eventual-safe-states) |
@@ -387,6 +388,7 @@ Competative Programming
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -458,6 +460,7 @@ Competative Programming
 | [0199-binary-tree-right-side-view](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0820-find-eventual-safe-states) |
@@ -475,6 +478,7 @@ Competative Programming
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1396-count-servers-that-communicate) |
