@@ -173,6 +173,7 @@ Competative Programming
 | [0029-divide-two-integers](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0189-rotate-array) |
@@ -519,6 +520,7 @@ Competative Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0119-pascals-triangle-ii) |
@@ -655,6 +657,7 @@ Competative Programming
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3548-find-the-count-of-good-integers](https://github.com/Kamal6495/Leetcode_Solution/tree/master/3548-find-the-count-of-good-integers) |
 ## Enumeration
