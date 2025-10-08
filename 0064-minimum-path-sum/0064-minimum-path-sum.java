@@ -3,7 +3,7 @@ class Solution {
     int m = grid.length;
     int n = grid[0].length;
     int prev[] = new int[n];
-    prev[0] = 0;
+    Arrays.fill(prev,0);
     for (int i = 0; i < m; i++) {
       int curr[] = new int[n];
       curr[0] = grid[i][0];
