@@ -17,12 +17,12 @@ class Solution {
     int left = Integer.MAX_VALUE;
     int top = Integer.MAX_VALUE;
     if (m > 0)
-      left = grid[m][n] + f(m - 1, n, grid, memo);
+      top = grid[m][n] + f(m - 1, n, grid, memo);
     if (n > 0)
-      top = grid[m][n] + f(m, n - 1, grid, memo);
+      left = grid[m][n] + f(m, n - 1, grid, memo);
 
     memo[m][n] = Math.min(left, top);
-    return Math.min(left, top);
+    return memo[m][n];
 
   }
 }
