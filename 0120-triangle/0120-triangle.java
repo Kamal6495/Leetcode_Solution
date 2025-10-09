@@ -3,22 +3,25 @@ class Solution {
     int m = triangle.size();
     int n = triangle.get(m - 1).size();
 
-    int dp[][] = new int[m][n];
+    int next[] = new int[n];
 
     for (int j = 0; j < n; j++) {
-      dp[m - 1][j] = triangle.get(m - 1).get(j);
+      next[j] = triangle.get(m - 1).get(j);
     }
 
     for (int i = m - 2; i >= 0; i--) {
+      int curr[] = new int[n];
+
       for (int j = 0; j < triangle.get(i).size(); j++) {
 
-      int   up = triangle.get(i).get(j) + dp[i + 1][j];
-      int  upleft = triangle.get(i).get(j) + dp[i + 1][j + 1];
+        int up = triangle.get(i).get(j) + next[j];
+        int upleft = triangle.get(i).get(j) + next[j + 1];
 
         int ans = Math.min(up, upleft);
-        dp[i][j] = ans;
+        curr[j] = ans;
       }
+      next=curr;
     }
-    return dp[0][0];
+    return next[0];
   }
 }
