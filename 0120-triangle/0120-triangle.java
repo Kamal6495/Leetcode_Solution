@@ -10,12 +10,10 @@ class Solution {
     }
 
     for (int i = m - 2; i >= 0; i--) {
-      for (int j =  0; j <triangle.get(i).size(); j++) {
-        int up = Integer.MAX_VALUE;
-        int upleft = Integer.MAX_VALUE;
+      for (int j = 0; j < triangle.get(i).size(); j++) {
 
-        up = triangle.get(i).get(j) + dp[i + 1][j];
-        upleft = triangle.get(i).get(j) + dp[i + 1][j + 1];
+      int   up = triangle.get(i).get(j) + dp[i + 1][j];
+      int  upleft = triangle.get(i).get(j) + dp[i + 1][j + 1];
 
         int ans = Math.min(up, upleft);
         dp[i][j] = ans;
