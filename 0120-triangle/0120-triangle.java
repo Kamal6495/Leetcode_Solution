@@ -10,7 +10,7 @@ class Solution {
     }
 
     for (int i = m - 2; i >= 0; i--) {
-      for (int j = triangle.get(i).size()-1; j >= 0; j--) {
+      for (int j =  0; j <triangle.get(i).size(); j++) {
         int up = Integer.MAX_VALUE;
         int upleft = Integer.MAX_VALUE;
 
