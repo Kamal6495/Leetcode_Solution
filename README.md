@@ -72,6 +72,7 @@ Competative Programming
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0958-sort-array-by-parity-ii) |
+| [0967-minimum-falling-path-sum](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -437,6 +438,7 @@ Competative Programming
 | [0407-trapping-rain-water-ii](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0407-trapping-rain-water-ii) |
 | [0733-flood-fill](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0854-making-a-large-island) |
+| [0967-minimum-falling-path-sum](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -554,6 +556,7 @@ Competative Programming
 | [0410-split-array-largest-sum](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0416-partition-equal-subset-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0967-minimum-falling-path-sum](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1013-fibonacci-number) |
 | [1170-shortest-common-supersequence](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1170-shortest-common-supersequence) |
 | [1236-n-th-tribonacci-number](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1236-n-th-tribonacci-number) |
