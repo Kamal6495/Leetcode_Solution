@@ -1,38 +1,39 @@
 class Solution {
   public int minFallingPathSum(int[][] matrix) {
+
     int m = matrix.length;
     int n = matrix[0].length;
-    int[] next = new int[n];
-
-    // Base case: last row = same as matrix
-    for (int j = 0; j < n; j++) {
-      next[j] = matrix[m - 1][j];
-    }
-
-    // Fill from bottom-2 row up to top
-    for (int i = m - 2; i >= 0; i--) {
-      int curr[] = new int[n];
-      for (int j = 0; j < n; j++) {
-        int left = Integer.MAX_VALUE;
-        int down = Integer.MAX_VALUE;
-        int right = Integer.MAX_VALUE;
-
-        if (j > 0)
-          left = matrix[i][j] + next[j - 1];
-        down = matrix[i][j] + next[j];
-        if (j < n - 1)
-          right = matrix[i][j] + next[j + 1];
-
-        curr[j] = Math.min(Math.min(left, down), right);
-      }
-      next = curr;
-    }
-
     int res = Integer.MAX_VALUE;
-    for (int num : next) {
-      res = Math.min(res, num);
+    int memo[][] = new int[m][n];
+
+    for (int i = 0; i < m; i++) {
+      Arrays.fill(memo[i], -1);
     }
 
+    for (int i = 0; i < n; i++) {
+      res = Math.min(res, f(0, i, matrix, memo));
+    }
     return res;
+  }
+
+  public int f(int row, int col, int[][] mat, int[][] memo) {
+    if (row == mat.length - 1)
+      return mat[row][col];
+
+    if (memo[row][col] != -1)
+      return memo[row][col];
+    int left = Integer.MAX_VALUE;
+    int down = Integer.MAX_VALUE;
+    int right = Integer.MAX_VALUE;
+    if (col > 0)
+      left = mat[row][col] + f(row + 1, col - 1, mat, memo);
+    down = mat[row][col] + f(row + 1, col, mat, memo);
+    if (col < mat[row].length - 1)
+      right = mat[row][col] + f(row + 1, col + 1, mat, memo);
+
+    int ans = Math.min(Math.min(left, down), right);
+    memo[row][col] = ans;
+    return ans;
+
   }
 }
