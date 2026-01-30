@@ -114,6 +114,7 @@ Competative Programming
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2792-neighboring-bitwise-xor) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Kamal6495/Leetcode_Solution/tree/master/3001-apply-operations-to-maximize-score) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Kamal6495/Leetcode_Solution/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Kamal6495/Leetcode_Solution/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -335,6 +336,7 @@ Competative Programming
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Kamal6495/Leetcode_Solution/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3447-clear-digits](https://github.com/Kamal6495/Leetcode_Solution/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Kamal6495/Leetcode_Solution/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -457,6 +459,7 @@ Competative Programming
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -567,6 +570,7 @@ Competative Programming
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Kamal6495/Leetcode_Solution/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2262-solving-questions-with-brainpower) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Kamal6495/Leetcode_Solution/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Recursion
 |  |
@@ -737,4 +741,9 @@ Competative Programming
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Kamal6495/Leetcode_Solution/tree/master/0014-longest-common-prefix) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2977-minimum-cost-to-convert-string-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Kamal6495/Leetcode_Solution/tree/master/2977-minimum-cost-to-convert-string-ii) |
 <!---LeetCode Topics End-->
